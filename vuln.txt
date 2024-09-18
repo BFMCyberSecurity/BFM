@@ -9,7 +9,6 @@ WSO 2.6
 <input type=\"submit\" name=\"submit\" value=\"submit\">
 <title>000</title>
 <font color=\"#00ff00\">
-Leaf PHPMailer</title>
 <title>L I E R SHELL</title>
 <span>Upload file:</span>
 vu<title>Webshell</title>lncode
@@ -29,20 +28,16 @@ BlackDragon
 //0x5a455553.github.io/MARIJUANA/icon.png
 %PDF-0-1<form action=\"\" method=\"post\"><input type=\"text\" name=\"_rg\"><input type=\"submit\" value=\">>\">
 <title>MARIJUANA</title>
--rw-r--r--
 vulncode
 <title>||TINY SHELL ||</title>
 %PDF-0-1<form action=\"\" method=\"post\"><input type=\"text\" name=\"_rg\"><input type=\"submit\" value=\">>
 method= \"post\" action= \"\"> <input type=\"input\" name =\"f_p\" value= \"\"/><input type= \"submit\" value= \">&gt;\" ]
 <title>Gel4y Mini Shell</title>
-Yanz Webshell!
-WSO YANZ ENC BYPASS
 WSOX ENC
 WSO 4.2.6
 File Manager
 drwxr-xr-x
 WSO 2.5
-Uname:
 FoxWSO v1.2
 WebShellOrb 2.6
 %PDF-0-1<form action="" method="post"><input type="text" name="_rg"><input type="submit" value=">>"></form>
@@ -75,7 +70,6 @@ TEAM-0ROOT
 Tiny File Manager 2.4.3
 [ Mini Shell ]
 PHU Mini Shell
-//0x5a455553.github.io/MARIJUANA/icon.png
 Powered By Indonesian Darknet
 Mr.Combet Webshell
 MSQ_403
