@@ -1,0 +1,4 @@
+/.well-known/
+/wp-admin/
+/wp-includes/
+/wp-content/
