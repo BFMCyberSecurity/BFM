@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>KOKINIO</title>
+<title>OwlCyberSecurity</title>
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
 </head>
 <body>
 <div id="container">
-    <h1>KOKINIO - MANAGER</h1>
+    <h1>OwlCyberSecurity - MANAGER</h1>
     <?php
     // Function to clean input from unwanted characters
     function clean_input($input) {
